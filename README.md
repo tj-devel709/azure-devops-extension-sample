@@ -21,6 +21,7 @@ Some external dependencies:
 
 Just run:
 
+    npm install
     npm run build
 
 This produces a .vsix file which can be uploaded to the [Visual Studio Marketplace](https://marketplace.visualstudio.com/azuredevops)
